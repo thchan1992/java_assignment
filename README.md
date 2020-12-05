@@ -1,4 +1,4 @@
-This is TH Chan's school work:
+This is the first program I have ever made for the school work, so this is so hard coded
 
 Assignment[2] (the codes)
 
